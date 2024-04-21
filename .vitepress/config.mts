@@ -7,7 +7,8 @@ export default defineConfig({
     logo: '/images/logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/privacy' }
+      { text: 'Privacy', link: '/privacy' },
+      { text: 'Contact', link: '/contact' }
     ],
 
     sidebar: [

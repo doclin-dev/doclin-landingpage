@@ -40,7 +40,7 @@ To send you notifications, we provide your email address to our email service pr
 
 ## Changes to our Privacy Policy
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website or application. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website or application. If we make material changes to this policy, we will notify you via email that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 ## Your Consent
 
