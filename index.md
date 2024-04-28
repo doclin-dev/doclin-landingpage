@@ -24,7 +24,7 @@ features:
     details: Sometimes documentation cannot be avoided. Using Doclin's rich text editor, developers can leave detailed explanations in the code.
   - icon: 🏃
     title: Always up-to-date
-    details: Doclin automatically keeps documentations up to date by flagging it as the code changes.
+    details: Doclin automatically keeps documentation up to date by flagging it when the code changes.
   - icon: 🔒
     title: No Access To Git Required
     details: We do not require access to your git repository, nor do we store any sensitive information about your git repository.
