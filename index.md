@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "Doclin"
-  text: "No more manual code documentation"
-  tagline: Real-time code commenting and discussion in IDE.
+  name: Doclin
+  text: No more manual code documentation
+  tagline: Real-time code discussion tool and copilot
   actions:
     - theme: brand
       text: Download in VS Code
@@ -13,13 +13,22 @@ hero:
       text: Coming Soon to Other IDEs
 
 features:
+  - icon: 💬
+    title: Real-Time Commenting
+    details: Developers can comment on and discuss code in real-time. Comments are stored safely in the cloud, preventing clutter in the git repository.
+  - icon: 🤖
+    title: Automatic Knowledge Base Creation
+    details: As developers discuss code in Doclin, it creates a knowledge base without any manual effort required for writing documentation.
   - icon: 📝
-    title: Document Code in Real-Time
-    details: Using our rich text editor, developers can leave detailed explanations in the code without writing to the git repository.
-  - icon: 🗣️
-    title: Discuss Code in Your IDE
-    details: Users can ask and answer questions that will be code-coupled. It creates a knowledge base and Doclin automatically keeps it up-to-date by resolving outdated conversations.
+    title: Better Documentation
+    details: Sometimes documentation cannot be avoided. Using Doclin's rich text editor, developers can leave detailed explanations in the code.
+  - icon: 🏃
+    title: Always up-to-date
+    details: Doclin automatically keeps documentations up to date by flagging it as the code changes.
+  - icon: 🔒
+    title: No Access To Git Required
+    details: We do not require access to your git repository, nor do we store any sensitive information about your git repository.
   - icon: ✨
     title: Coming Soon - Copilot
-    details: With the power of code-couple discussion and generative AI, our chatbot will make life easier to understand complex code.
+    details: With the power of code-coupled discussion and generative AI, our chatbot will make it easier to understand complex code and business logic.
 ---
