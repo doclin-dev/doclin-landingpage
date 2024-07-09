@@ -3,14 +3,14 @@ layout: home
 
 hero:
   name: Doclin
-  text: No more manual code documentation
+  text: Build code knowledgebase effortlessly
   tagline: Real-time code discussion tool and copilot
   actions:
     - theme: brand
       text: Download in VS Code
       link: https://marketplace.visualstudio.com/items?itemName=Doclin.doclin
     - theme: alt
-      text: Coming Soon to Other IDEs
+      text: Coming Soon to JetBrains, NeoVim...
 
 features:
   - icon: 💬
